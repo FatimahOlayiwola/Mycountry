@@ -1,0 +1,86 @@
+.spanning span {
+  font-size: 25px;
+  color: green;
+  text-transform: uppercase;
+}
+
+img {
+  width: 350px;
+}
+
+.card-text{
+  font-size: 20px;
+  color: coral;
+}
+
+.first span {
+  font-size: 25px;
+  color: green;
+  text-transform: uppercase;
+}
+
+.first {
+  font-size: 20px;
+  color: crimson; 
+}
+
+.card-title {
+  font-size: 35px;
+  color: darkcyan;
+}
+
+.fifth {
+  font-size: 25px;
+}
+
+.seventh {
+  color: firebrick;
+  font-size: 25px;
+}
+
+.eighth {
+  color: coral;
+  font-size: 25px;
+}
+
+.jumbotron {
+  background-color:goldenrod;
+}
+
+.one {
+  font-size: 25px;
+}
+
+.fourth {
+  font-size: 25px;
+}
+
+.second {
+  font-size: 25px;
+}
+
+.spanning {
+  font-size: 25px;
+}
+
+.sixth {
+  font-size: 25px;
+}
+
+.two {
+  font-size: 25px;
+color: darkcyan;
+}
+
+.text-warning {
+  font-size: 25px;
+}
+
+.four {
+  font-size: 25px;
+color: lawngreen;
+}
+
+.text-success {
+  font-size: 55px;
+}

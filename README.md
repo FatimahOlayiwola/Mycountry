@@ -27,11 +27,11 @@
   ]
 
   ### Application Challenges :[
-    1. 
+    None
+   
   ]
 
   ### Application Medias :[
-    *Add pictures of various places,currencies,symbols and tribes in Nigeria*  
+    Add pictures of various places,currencies,symbols and tribes in Nigeria  
   ]
 
-### 
